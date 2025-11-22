@@ -26,7 +26,7 @@ Este proyecto es una API backend que permite a los usuarios registrarse, autenti
 ### Pasos
 
 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/api-tareas.git
+git clone https://github.com/CarlosRamz1/api-tareas.git
 cd api-tareas
 
 2. Crear y activar entorno virtual
